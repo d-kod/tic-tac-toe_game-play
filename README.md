@@ -24,5 +24,5 @@ A simple command-line implementation of the classic Tic Tac Toe game, where two 
 ## Code
 The file is located at [python_gameplay.py](https://github.com/d-kod/tic-tac-toe_game-play/blob/main/main.py)
 
-Enjoy the game!
+Enjoy the game and leave a 🌟!
 
